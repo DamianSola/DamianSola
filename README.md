@@ -3,8 +3,8 @@ me gustan los desafios, cuando hay un problema y tener que encontrar una solucio
 
 Tech Skills:
 >javaScript
->html y css
->React 
+html y css
+React 
 >Redux
 >Nodejs
 >Express
