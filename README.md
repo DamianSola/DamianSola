@@ -17,7 +17,7 @@
 #### - Esfuerzo y perseverancioa.
 #### - Compromiso
 #### - Apacionado
-#### - Relaciones intermersonales
+#### - Relaciones interpersonales
 
 ### contactame: 
 #### e-mail: damiansola99@gmail.com
