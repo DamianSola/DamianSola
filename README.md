@@ -1,5 +1,5 @@
 # DamianSola
-## Me gustan los desafios, cuando hay un problema y tener que encontrar una solucion. Siempre me gustó crear, desarrollar y diseñar. Darle una utilidad e identidad a cada proyecto que hago, ya sea una app o cualquier otra actividad en la vida. Tengo la obsecion de desarrollarme en este rubro y crear grandes cosas.
+## Me gustan los desafios, los problemas y crear soluciones. Siempre me gustó crear, desarrollar y diseñar. Darle una utilidad e identidad a cada proyecto que hago, ya sea una app o cualquier otra actividad en la vida. Me encanta programar y mi principal interes es crecer como tal. Soy extrovertido, apasionado, responsable y sociable. 
 
 ## Tech Skills:
 #### - javaScript 
