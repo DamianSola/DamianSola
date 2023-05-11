@@ -1,5 +1,8 @@
 # DamianSola
-## Me gustan los desafios, los problemas y crear soluciones. Siempre me gustó crear, desarrollar y diseñar. Darle una utilidad e identidad a cada proyecto que hago, ya sea una app o cualquier otra actividad en la vida. Me encanta programar y mi principal interes es crecer como tal. Soy extrovertido, apasionado, responsable y sociable. 
+### Soy desarrollador fullstack con casi 2 años de experiencia principalmente en aplicaciones web. 
+### Mis principales fortalezas son la capacidad de resolver problemas, la buena comunicacion y comprencion. Principalmente me gusta y valoro el trabajo en equipo ya que me potencia como profesional.
+### Con mis conocimientos y habilidades he logrado hacer un e-commerce y mi portafolio y una pagina web propia orientada al turismo de mi ciudad.
+### Actualmente estoy buscando un trabajo en una empresa innnovadora o proyectos que me permitan crecer y desarrollar mis habilidades.
 
 ## Tech Skills:
 #### - javaScript 
