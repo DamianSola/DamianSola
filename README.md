@@ -1,29 +1,50 @@
-# DamianSola
-### Soy desarrollador fullstack con casi 2 años de experiencia en aplicaciones web. 
-### Mis principales fortalezas son la capacidad de resolver problemas, la buena comunicacion y comprencion. Principalmente me gusta y valoro el trabajo en equipo ya que me potencia como profesional.
-### Actualmente estoy buscando un trabajo en una empresa innnovadora o proyectos que me permitan crecer y desarrollar mis habilidades.
+# Damian Sola
 
-## Tech Skills:
-#### - javaScript 
-#### - TypeScript 
-#### - html y css
-#### - TailwindCSS
-#### - React 
-#### - Redux thunk
-#### - Nodejs
-#### - Express
-#### - Sequelize
-#### - Mongoose
-#### - PostgreSQL
-#### - MongoDB
+### 💻 Full Stack Web Developer | React · Node.js · TypeScript
 
-## Soft Skill:
-#### - Esfuerzo y perseverancioa.
-#### - Compromiso
-#### - Relaciones interpersonales
-#### - Respeto 
+Soy desarrollador fullstack con casi 2 años de experiencia en el diseño y desarrollo de aplicaciones web modernas. Me especializo en tecnologías JavaScript, tanto del lado del cliente como del servidor, y disfruto crear soluciones escalables y eficientes que resuelvan problemas reales.
 
-### contactame: 
-#### e-mail: damiansola99@gmail.com
-#### linkedink: https://www.linkedin.com/in/damiansola/ 
+### 🧠 Fortalezas
+
+- Capacidad analítica para resolver problemas de forma eficiente.
+- Excelente comunicación y comprensión de requerimientos técnicos y funcionales.
+- Fuerte orientación al trabajo en equipo, con actitud proactiva y colaborativa.
+- En constante aprendizaje para mejorar mis habilidades y adaptarme a nuevos desafíos.
+
+Actualmente, estoy buscando oportunidades laborales en empresas innovadoras o proyectos que me permitan seguir creciendo profesional y técnicamente.
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes y estilos:**
+- JavaScript (ES6+)
+- TypeScript
+- HTML5 / CSS3
+- TailwindCSS
+
+**Frontend:**
+- React
+- Redux Thunk
+
+**Backend:**
+- Node.js
+- Express
+
+**Bases de datos:**
+- PostgreSQL (Sequelize)
+- MongoDB (Mongoose)
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: damiansola99@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/damiansola](https://www.linkedin.com/in/damiansola)  
+- 🐙 GitHub: [github.com/DamianSola](https://github.com/DamianSola)
+
+---
+
+Gracias por visitar mi perfil 🙌  
+Siempre abierto a colaborar en proyectos interesantes o a sumarme a nuevos desafíos profesionales.
 
